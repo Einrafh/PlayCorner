@@ -1,0 +1,3 @@
+[submodule "playcorner-frontend"]
+	path = playcorner-frontend
+	url = https://github.com/Einrafh/playcorner-frontend.git
